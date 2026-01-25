@@ -1,0 +1,8 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://qqmkb1iujpjg"]
+
+[ext_resource type="Texture2D" uid="uid://oqh7sjobk1n0" path="res://Art/Korb_und_Eier.png" id="1_vxn22"]
+
+[resource]
+atlas = ExtResource("1_vxn22")
+region = Rect2(10, 100, 190, 240)
+margin = Rect2(4, 4, 8, 8)
